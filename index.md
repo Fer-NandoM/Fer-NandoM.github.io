@@ -1,8 +1,19 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: single
-author_profile: true
+layout: splash
+title: "Fer-Nando"
+permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/bio-photo.jpg
+  cta_label: "Explore My Projects"
+  cta_url: "/projects/"
+  caption: "Mechanical Engineering • Innovation • Global Vision"
+excerpt: >
+  Hi, I’m Fernando — a student engineer, international thinker, and builder of cool things.  
+  This is my digital home for everything I create, study, and pursue.
 ---
-I am a High School senior at Ardrey Kell and a prospective mechanical engineering major with interests in automotive, aerospace, and sustainable infrastructure.
+
+{% include feature_row id="intro" %}
+
+{% include feature_row id="spotlight" type="center" %}
