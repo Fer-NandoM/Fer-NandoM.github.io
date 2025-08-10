@@ -1,0 +1,33 @@
+intro:
+  - image_path: /assets/images/bio-photo.jpg
+    alt: "About Me"
+    title: "About Me"
+    excerpt: "Learn more about my journey through engineering, leadership, and international experiences."
+    url: "/about/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/project1.jpg
+    alt: "Projects"
+    title: "Projects"
+    excerpt: "Explore personal engineering, AI, and automation projects I've built."
+    url: "/projects/"
+    btn_label: "View Projects"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/resume.jpg
+    alt: "Resume"
+    title: "Resume"
+    excerpt: "View my background, skills, and experiences in a clear and visual format."
+    url: "/resume/"
+    btn_label: "View Resume"
+    btn_class: "btn--primary"
+
+spotlight:
+  - image_path: /assets/images/feature-banner.jpg
+    alt: "Global Mindset"
+    title: "Built to Solve Problems Around the World"
+    excerpt: "With roots in Mexico, Chile, and the U.S., my work blends cultures, disciplines, and global insight."
+    url: "/about/"
+    btn_label: "Learn More"
+    btn_class: "btn--inverse"
